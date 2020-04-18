@@ -16,7 +16,3 @@ For example:
 ```yaml
     working_directory: /go/src/github.com/alexandrust88/invoicer2
 ```
-would become:
-```yaml
-    working_directory: /go/src/github.com/jvehent/invoicer2
-```
